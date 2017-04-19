@@ -22,7 +22,7 @@ sudo n latest
 npm install -g gulp
 
 # Install angular-cli
-npm install -g angular-cli
+npm install -g @angular/cli
 
 # Install google cloud cli
 wget https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-141.0.0-darwin-x86_64.tar.gz
